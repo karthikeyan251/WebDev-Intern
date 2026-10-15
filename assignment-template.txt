@@ -1,0 +1,1 @@
+Each assignment page uses the same navigation style and loads only its own JavaScript file from js/.
